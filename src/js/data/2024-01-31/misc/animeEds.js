@@ -21,7 +21,7 @@ export const animeEndings = [
   },
   {
     name: "Fate/stay night - disillusion by Sachi Tainaka",
-    videoId: "https://ladist1.catbox.video/w5mz70.mp3",
+    videoId: "https://files.catbox.moe/8t8ynw.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
