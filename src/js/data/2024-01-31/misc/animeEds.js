@@ -251,7 +251,7 @@ export const animeEndings = [
   },
   {
     name: "Fate/Zero - oath sign by LiSA",
-    videoId: "https://ladist1.catbox.video/txss3m.mp3",
+    videoId: "https://ladist1.catbox.video/ug35r2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
